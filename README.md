@@ -1,2 +1,2 @@
-# Walmart-Sales
-Walmart Sales Python EDA 
+# Walmart-Sales-Python EDA 
+
