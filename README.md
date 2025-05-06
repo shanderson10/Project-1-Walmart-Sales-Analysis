@@ -1,4 +1,6 @@
+Project 1: Walmart Sales 
 # Walmart-Sales-Python EDA 
+
 
 ![image](https://github.com/user-attachments/assets/1acbac22-0c89-44b3-9c04-b562e31c6d95)
 
