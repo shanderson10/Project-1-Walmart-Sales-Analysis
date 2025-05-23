@@ -3,9 +3,9 @@ Skills Covered: Python EDA
 Assets: Google Colab Notebook, Powerpoint Deck
 https://drive.google.com/file/d/1aKN870tAMS4Dnm3FqDcA2Kc-j342D_dP/view
 
+README: Walmart Sales Analysis
 
 # Project 1: Walmart Sales Analysis
-
 
 ## Overview
 
