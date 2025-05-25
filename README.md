@@ -30,7 +30,7 @@ This project focuses on analyzing sales data from Walmart to uncover trends, pat
 
 ## Project Assets
 
-* **Google Colab Notebook:** [View Notebook]([(https://colab.research.google.com/drive/1SaEaksG3gGawzgeivXDWHddxQk_EGbx5#scrollTo=TgRasMY_sxl5&line=5&uniqifier=1]) (Requires Google Drive access)
+* **Google Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1SaEaksG3gGawzgeivXDWHddxQk_EGbx5#scrollTo=TgRasMY_sxl5&line=5&uniqifier=1]) (Requires Google Drive access)
 * **PowerPoint Presentation:** [View Presentation](https://drive.google.com/file/d/1aKN870tAMS4Dnm3FqDcA2Kc-j342D_dP/view?usp=sharing) (Requires Google Drive access)
 
 ## How to Use
